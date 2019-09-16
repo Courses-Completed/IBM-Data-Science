@@ -1,4 +1,4 @@
-# Final assigment - What is Data Science?
+ # Final assigment - What is Data Science?
 
 ### Introduce yourself and share with your peers your background and any experience you have with data science
 
